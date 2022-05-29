@@ -2,4 +2,4 @@
 Desafio Git/GitHub
 
 ## Link DevMedia
-[Login] (https://www.devmedia.com.br/)
+(https://www.devmedia.com.br/)
