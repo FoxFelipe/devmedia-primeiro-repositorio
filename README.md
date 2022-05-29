@@ -1,2 +1,2 @@
-# devmedia-primeiro-repositorio
-DeMedia-primeiro
+# Repositorio HTML/CSS
+Desafio Git/GitHub
