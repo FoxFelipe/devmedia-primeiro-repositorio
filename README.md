@@ -2,4 +2,4 @@
 Desafio Git/GitHub
 
 ## Link DevMedia
-(https://www.devmedia.com.br/)
+[Sintaxe html e css](https://www.devmedia.com.br/)
